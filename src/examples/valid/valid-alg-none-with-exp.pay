@@ -1,0 +1,12 @@
+{
+  "header": { "v": 1, "typ": "pay+json", "alg": "none" },
+  "payload": {
+    "jti": "e3f1c2a4b5d6e7f8091a2b3c4d5e6f70",
+    "amount": "12.50",
+    "asset": "BTC",
+    "network": "BTC-mainnet",
+    "createdAt": "2025-09-17T10:00:00Z",
+    "exp": "2025-09-24T10:00:00Z",
+    "note": "Coffee"
+  }
+}

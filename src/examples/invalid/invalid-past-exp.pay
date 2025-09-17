@@ -1,0 +1,12 @@
+{
+  "header": { "v": 1, "typ": "pay+json", "alg": "none" },
+  "payload": {
+    "jti": "0f1e2d3c4b5a69788796a5b4c3d2e1f0",
+    "amount": "5",
+    "asset": "BTC",
+    "network": "BTC-mainnet",
+    "createdAt": "2025-09-17T10:10:00Z",
+    "exp": "2025-09-01T00:00:00Z",
+    "note": "Expired sample"
+  }
+}

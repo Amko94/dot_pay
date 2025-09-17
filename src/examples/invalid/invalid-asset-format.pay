@@ -1,0 +1,11 @@
+{
+  "header": { "v": 1, "typ": "pay+json", "alg": "none" },
+  "payload": {
+    "jti": "11223344556677889900aabbccddeeff",
+    "amount": "1.234",
+    "asset": "btc",
+    "network": "BTC-mainnet",
+    "createdAt": "2025-09-17T10:15:00Z",
+    "note": "Lowercase asset should fail"
+  }
+}
