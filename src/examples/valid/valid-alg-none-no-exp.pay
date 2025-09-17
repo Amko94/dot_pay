@@ -1,0 +1,12 @@
+{
+  "header": { "v": 1, "typ": "pay+json", "alg": "none" },
+  "payload": {
+    "jti": "a0b1c2d3e4f5061728394a5b6c7d8e9f",
+    "amount": "0.01",
+    "asset": "USDC",
+    "network": "ETH-mainnet",
+    "createdAt": "2025-09-17T10:05:00Z",
+    "note": "Tip",
+    "pinHash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  }
+}
